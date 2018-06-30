@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">多语言Demo</string>
+    <string name="language">系统</string>
+    <string name="chinese">中文</string>
+    <string name="english">英语</string>
+    <string name="click_tip">点击我</string>
+    <string name="setting">设置</string>
+</resources>
